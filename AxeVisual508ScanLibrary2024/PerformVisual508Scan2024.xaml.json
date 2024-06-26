@@ -1,0 +1,21 @@
+{
+  "DisplayName": "PerformVisual508Scan2024",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "ResultsFolder",
+      "DisplayName": "ResultsFolder",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "c:\\tmp",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
